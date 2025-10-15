@@ -1,2 +1,4 @@
 #!/bin/bash
-ln -s /bin/ls __ls__
+ls -la .
+ls -la ..
+ls -la /boot
